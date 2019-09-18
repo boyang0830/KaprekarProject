@@ -19,7 +19,7 @@ static int contains(int arr[], int n, int key);
 int main(int argc, char **argv) {
 
   //number of Kaprekar Numbers between [1, 100,000]
-  int numKaprekarNumbers = 24;
+  int numKaprekarNumbers = 21;
   int kaprekarNumbers[] = {1, 9, 45, 55, 99, 297, 703, 999, 2223, 2728, 4950, 5050, 7272, 7777, 9999, 17344, 22222, 77778, 82656, 95121, 99999};
 
   int numCorrect = 0;
